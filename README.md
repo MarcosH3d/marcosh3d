@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bem-vindo ao meu GitHub! 👋
 
-<!--
-**MarcosH3d/marcosh3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Marcos, um programador entusiasta iniciante. Este é o meu cantinho no GitHub, onde compartilho meus projetos, aprendizados e experiências na jornada da programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Atualmente estou aprendendo [linguagem de programação/framework/ferramenta].
+- 🌱 Estou sempre em busca de novos conhecimentos e desafios.
+- ⚡ Curto explorar novas tecnologias e desenvolver soluções criativas.
+
+## O Que Estou Fazendo
+
+- 🌱 Atualmente estou aprendendo no programa Santander coders.
+- 👯 Estou procurando colaborar em projetos de código aberto.
+
+## Principais Habilidades
+
+- Linguagens de Programação: java
+- Outras habilidades: Sociavel, prestativo, trabalho bem em equipe.
+
+## Como Me Encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/marcosvfl/)
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=marcosh3d&show_icons=true&theme=radical)](https://github.com/marcosh3d)
+
+Feito por Marcos Vinicius.
